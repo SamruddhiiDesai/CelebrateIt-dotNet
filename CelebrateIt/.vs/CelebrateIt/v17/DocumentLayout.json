@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\parentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\parentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\facilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\facilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\model\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\model\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|d:\\project celebrateit dotnet\\celebrateit\\celebrateit\\celebrateit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C0DADD0-85B4-417A-BFCE-E63DB133E71E}|CelebrateIt\\CelebrateIt.csproj|solutionrelative:celebrateit\\celebrateit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\UserRole.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\UserRole.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:32:41.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\BookingStatus.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\BookingStatus.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\BookingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:11:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\PaymentStatus.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\PaymentStatus.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:10:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\PaymentMethod.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\PaymentMethod.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:10:05.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\appsettings.json",
+              "RelativeDocumentMoniker": "CelebrateIt\\appsettings.json",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\appsettings.json",
+              "RelativeToolTip": "CelebrateIt\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T19:04:54.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentCategory.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\ParentCategory.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\ParentCategory.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\ParentCategory.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\ParentCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:59:21.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\BaseModel.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\BaseModel.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\BaseModel.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:46:52.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Categories.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\Categories.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Categories.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\Categories.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:32:29.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactUs.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\ContactUs.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\ContactUs.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\ContactUs.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\ContactUs.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:31:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Feedback.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\Feedback.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Feedback.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\Feedback.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:31:46.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Bookings.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\Bookings.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Bookings.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\Bookings.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA2wAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:31:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Facilities.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Facilities.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\Facilities.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Facilities.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\Facilities.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:31:21.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Model\\Users.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Model\\Users.cs",
+              "RelativeToolTip": "CelebrateIt\\Model\\Users.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:31:06.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CelebrateIt",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\CelebrateIt.csproj",
+              "RelativeDocumentMoniker": "CelebrateIt\\CelebrateIt.csproj",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\CelebrateIt.csproj",
+              "RelativeToolTip": "CelebrateIt\\CelebrateIt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T18:28:05.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Program.cs",
+              "RelativeDocumentMoniker": "CelebrateIt\\Program.cs",
+              "ToolTip": "D:\\Project CelebrateIt dotNet\\CelebrateIt\\CelebrateIt\\Program.cs",
+              "RelativeToolTip": "CelebrateIt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:25:15.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
