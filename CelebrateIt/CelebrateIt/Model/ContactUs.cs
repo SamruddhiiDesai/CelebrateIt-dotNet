@@ -1,9 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using CelebrateIt.Model;
 
 namespace CelebrateIt.Models
 {
-    public class ContactUs
+    public class ContactUs : BaseModel
     {
+        [Key]
         public int ContactId { get; set; }
 
         [Required]

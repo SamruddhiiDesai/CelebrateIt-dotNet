@@ -1,10 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using CelebrateIt.Model;
 
 namespace CelebrateIt.Models
 {
-    public class Categories
+    public class Categories : BaseModel
     {
+        [Key]
         public int CategoryId { get; set; }
 
         [MaxLength(150)]

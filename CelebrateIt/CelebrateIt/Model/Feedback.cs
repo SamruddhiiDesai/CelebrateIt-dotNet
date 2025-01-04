@@ -1,10 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using CelebrateIt.Model;
 
 namespace CelebrateIt.Models
 {
-    public class Feedback
+    public class Feedback : BaseModel
     {
+        [Key]
         public int FeedbackId { get; set; }
 
         [MaxLength(512)]

@@ -9,17 +9,19 @@
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.11">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="DTOs\" />
-    <Folder Include="Mapper\" />
+    <Folder Include="DTOs\BookingsDTO\" />
+    <Folder Include="DTOs\CategoriesDTO\" />
+    <Folder Include="DTOs\FacilitiesDTO\" />
+    <Folder Include="DTOs\UserDTO\" />
     <Folder Include="Repositories\Implementation\" />
     <Folder Include="Repositories\Interface\" />
     <Folder Include="Services\Implementation\" />

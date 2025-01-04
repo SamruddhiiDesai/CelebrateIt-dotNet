@@ -1,12 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using CelebrateIt.Model;
 
 namespace CelebrateIt.Models
 {
-    public class Facilities
+    public class Facilities : BaseModel
     {
-        
-        public int ServiceId { get; set; }
+        [Key]
+        public int FacilityId { get; set; }
 
         [Required]
         [MaxLength(100)]
@@ -25,11 +26,12 @@ namespace CelebrateIt.Models
         public double BasePrice { get; set; }
 
         [Required]
-        [Column(TypeName = "decimal(18,2)")]
+        [Column(TypeName ="DOUBLE DEFAULT 0")]
+        
         public double Discount { get; set; } = 0;
 
         [Required]
-        [Column(TypeName = "decimal(18,1)")]
+        [Column(TypeName = "DOUBLE DEFAULT 0")]
         public double Rating { get; set; }
 
         // Uncomment these if soft delete or approval functionality is needed

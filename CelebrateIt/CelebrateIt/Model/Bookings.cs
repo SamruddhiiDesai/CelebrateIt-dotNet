@@ -1,11 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using CelebrateIt.Model;
 
 namespace CelebrateIt.Models
 {
-    public class Bookings
+    public class Bookings:BaseModel
     {
-        
+        public static int Required { get; private set; }
+        [Key]
         public int BookingId { get; set; }
 
         [Required]

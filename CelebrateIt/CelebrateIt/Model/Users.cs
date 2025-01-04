@@ -1,9 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using CelebrateIt.Model;
 
 namespace CelebrateIt.Models
 {
-    public class Users
+    public class Users : BaseModel
     {
+        [Key]
         public int UserId { get; set; }
 
         [Required]
@@ -25,7 +27,7 @@ namespace CelebrateIt.Models
         public string ContactNumber { get; set; }
 
         [Required]
-        public UserRole Role { get; set; }
+        public UserRole UserRole { get; set; }
     }
 }
 
