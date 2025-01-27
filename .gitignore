@@ -1,0 +1,30 @@
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.suo
+*.sln.docstates
+
+# IDE Files
+.vs/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.cache
+
+# Debug and Release Files
+*.pdb
+*.dll
+*.exe
+
+# NuGet Packages
+packages/
+
+# Other
+project.lock.json
+artifacts/
